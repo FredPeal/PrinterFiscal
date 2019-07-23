@@ -1,0 +1,39 @@
+7/4/2019 2:40:06 p.m.
+Message: Impresora Fuera de linea
+----------------------------------------
+7/4/2019 2:59:35 p.m.
+Message: Impresora Fuera de linea
+----------------------------------------
+22/7/2019 2:42:40 p.m.
+Message: Impresora Fuera de linea
+----------------------------------------
+22/7/2019 2:45:27 p.m.
+Message: Impresora Fuera de linea
+----------------------------------------
+22/7/2019 4:10:39 p.m.
+Message: Lineas impresas 10, Id1
+----------------------------------------
+22/7/2019 4:10:52 p.m.
+Message: Lineas impresas 10, Id2
+----------------------------------------
+22/7/2019 5:36:32 p.m.
+Message: Impresora Fuera de linea
+----------------------------------------
+23/7/2019 11:20:19 a.m.
+Message: Impresora Fuera de linea
+----------------------------------------
+23/7/2019 11:55:48 a.m.
+Message: Impresora Fuera de linea
+----------------------------------------
+23/7/2019 11:56:48 a.m.
+Message: Impresora Fuera de linea
+----------------------------------------
+23/7/2019 11:57:35 a.m.
+Message: Impresora Fuera de linea
+----------------------------------------
+23/7/2019 12:28:11 p.m.
+Message: Impresora Fuera de linea
+----------------------------------------
+23/7/2019 2:29:53 p.m.
+Message: Numero de Cierre Z2
+----------------------------------------
